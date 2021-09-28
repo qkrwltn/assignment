@@ -29,7 +29,7 @@ else:
 
 x=int(input())
 y=int(input())
-lst=[]
+lst=[] # lst = [x, y]
 lst.append(x)
 lst.append(y)
 

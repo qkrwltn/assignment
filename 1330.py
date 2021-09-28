@@ -41,5 +41,4 @@ elif lst[0]<0 and lst[1]<0:
   print(3)
 elif lst[0]>0 and lst[1]<0:
   print(4)
-
-
+  
